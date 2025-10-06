@@ -1,6 +1,6 @@
 Data Structures and Algorithms in Python
 
-📚 A comprehensive collection of Data Structures and Algorithms (DSA) implemented in Python — from beginner to advanced — with explanations, code samples, and problem-solving techniques to prepare for coding interviews and strengthen fundamentals.
+📚 A comprehensive collection of Data Structures and Algorithms (DSA) implemented in Python - from beginner to advanced - with explanations, code samples, and problem-solving techniques to prepare for coding interviews and strengthen fundamentals.
 
 🚀 Features
 
