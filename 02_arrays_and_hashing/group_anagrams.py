@@ -24,4 +24,4 @@ class Solution:
 
 
 solution = Solution()
-print(solution.groupAnagrams( ["a"]))
+print(solution.groupAnagrams(["eat","tea","tan","ate","nat","bat"]))
